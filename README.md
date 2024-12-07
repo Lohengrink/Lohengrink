@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: k8813940518@gmail.com, chinyehchen@earth.sinica.edu.tw
 -->
 - 🔭 I am interested in using geophysical methods, especially seismic waves, to explore subsurface structures.
-- 🌊 Currently, I work with Prof. Yunung Nina Lin at the Subsurface Imaging Lab, Institute of Earth Sciences, Academia Sinica, Taiwan.
-- ✨ I have experience in reflection and refraction seismic data processing and enjoy using multi-geophysical data to address geological issues. 
-- 😁 I am highly interested in reflection seismology, refraction seismology, machine learning, deep learning, full waveform inversion, sub-bottom profiling, and programming languages. I would be delighted to discuss and exchange ideas with you.
+- 🌊 I have experience in reflection and refraction seismic data processing and enjoy using multi-geophysical data to address geological issues. 
+- ✨ I am highly interested in reflection seismology, refraction seismology, machine learning, deep learning, full waveform inversion, sub-bottom profiling, and programming languages.
+- 😁 I would be delighted to discuss and exchange ideas with you.
 - 👯 I am looking for a PhD opportunity.
 - 📫 How to reach me: k8813940518@gmail.com, chinyehchen@earth.sinica.edu.tw
